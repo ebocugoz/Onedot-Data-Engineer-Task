@@ -14,6 +14,8 @@ pip install libraries
   * Installation guide for pySpark [here](https://medium.com/tinghaochen/how-to-install-pyspark-locally-94501eefe421)
 
 ## How to run
+In the same folder with supplier_car.json
+
 ```sh
 python main.py
 ```
