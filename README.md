@@ -40,7 +40,7 @@ python main.py
 
 * Presentation files :
 
-data_flow_presentation.pdf
+ * data_flow_presentation.pdf : Data flow presentation and explanations. Answer of part 5 can be found in last 2 slides.
 
 
   
